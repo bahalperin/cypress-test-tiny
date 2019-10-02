@@ -2,6 +2,12 @@
 
 > Tiny Cypress E2E test case
 
+## Instructions
+
+Run server: `npm run start`
+
+Run cypress: `npm run cy:open`
+
 Build status | Description
 :--- | :---
 [![CircleCI](https://circleci.com/gh/cypress-io/cypress-test-tiny.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-test-tiny) | Linux & Mac
